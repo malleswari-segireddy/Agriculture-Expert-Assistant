@@ -1,0 +1,1214 @@
+Indian Council of Agricultural Research
+Krishi Bhavan, New Delhi 110 001
+Icar TechnologIes
+BIopesTIcIdes
+For eco-FrIendlY pesT ManageMenT
+Printed at: M/s. Royal Offset Printers, A-89/1, Naraina Industrial Area, Phase-I,  
+New Delhi 110 028
+Printed: 
+July, 2021
+Citation:
+Saxena A.K., Chakdar H., Kumar M., Rajawat M.V .S., Dubey S.C. and Sharma T.R. 2021. 
+ICAR Technologies: Biopesticides for Eco-friendly Pest Management. Indian Council of 
+Agricultural Research, New Delhi
+Conceived by: 
+Dr. Trilochan Mohapatra, Secretary, Department of Agricultural Research and 
+Education and Director General, Indian Council of Agricultural Research, 
+Krishi Bhavan, New Delhi 110 001
+Compiled by:
+Dr. Anil Kumar Saxena, Director, ICAR-National Bureau of Agriculturally  Important 
+Microorganisms, Kushmaur, Mau 275 103
+Edited by:
+A.K. Saxena, H.  Chakdar, Kumar M., M.V .S. Rajawat, S.C. Dubey and T.R. Sharma
+Contributors:
+All the developers of the Biopesticides
+Secretarial Assistance:
+Mr. Siddharth Arora, Personal Assistant, ICAR-NBAIM
+Published by:
+Directorate of Knowledge Management in Agriculture, Indian Council of Agricultural 
+Research, KAB-1, Pusa Campus, New Delhi 110 012.
+© 2021, Indian Council of Agricultural Research, New Delhi.
+This publication may be used/shared freely for non-commercial purposes, with proper 
+attribution to the publisher. 
+iii
+FOREWORD
+Indiscriminate use of chemical fertilizers and pesticides post 
+green revolution taught us a tough lesson that sustainable utilization of 
+the resources is the way forward for prolonged growth in agricultural 
+production sans deterioration of soil health. Just as biofertilizers are 
+emerging as green alternative to chemical fertilizers, biopesticides 
+have a huge role to play in sustainable management of crop pests 
+and pathogens. In contrast to chemical pesticides, application of 
+ecofriendly biopesticides does not lead to development of any 
+resistance in pests and pathogens. Still this sustainable alternative is 
+struggling to find its place in the market over its chemical counterpart 
+owing to technological challenges and acceptance among the farming 
+community. 
+National Policy for Farmers (NPF), 2007, which aims to improve 
+economic viability of farming and increase net income of farmers, 
+strongly recommends the promotion of biopesticides. In spite of these 
+efforts the biopesticides represent only 4.2% of the overall pesticide 
+market in India compared to 40% in USA and 20% each in Europe 
+and Oceanic countries.
+Indian Council of Agricultural Research, recognizing the 
+importance of biopesticides started All India Coordinated Research 
+Project (AICRP) on Biological control of Crop Pests and Weeds 
+way back in 1977. Since the inception of this project different 
+ICAR institutes accelerated the works on biocontrol and developed 
+biopesticides against a number of crop pests and diseases. At present 
+more than 970 biopesticide products have been registered with 
+Central Insecticide Board and Registration Committee (CIB & RC) 
+which is a governing body for insecticide registration in India. Most 
+biopesticide producing companies are dependent on either a single 
+strain or a handful of microbes for commercial production. Most of 
+the times, the products developed using these strains have limited 
+application and their activity range is narrow. To overcome this issue, 
+there should be many bioagents available that are active against a 
+wide range of pests and pathogens. Once there is availability of many 
+bioagents to select upon, the challenges faced by biopesticides in the 
+market can be handled well. 
+This compendium entitled “ICAR Technologies: Biopesticides  
+for Eco-friendly Pest Management” is a compilation of microbial 
+formulations developed by ICAR against crop pests and pathogens 
+that are at various stages of registration and commercialization. It can 
+be a useful source of information for students, researchers, scientists, 
+entrepreneurs and most importantly farming community and policy 
+makers.
+ 
+Dated: 30
+th July, 2021 (T. Mohapatra)
+New Delhi
+
+v
+pREFacE
+In India, crop pests and pathogens are implicated in 15–20% yield loss in 
+major field and horticultural crops. The profile of key pests and pathogens has been 
+changing rapidly owing to climate change, indiscriminate use of chemical pesticides 
+and other anthropogenic interventions. Non judicious use of chemical pesticides 
+has led to deterioration of soil health and environmental pollution. Biopesticides, 
+in contrast to their chemical alternatives can help to manage pests and pathogens 
+without negatively influencing the soil health and environment. Govt. of India has 
+encouraged the use of biopesticides by including them as a component in several 
+agricultural programs. Still, biopesticides are facing many challenges at farm level 
+due to declining interest among farmers. 
+Application of biopesticides like Bacillus thuringiensis, Trichoderma, 
+Pseudomonas, Metarhizium, Beauveria and others can have significant effect on crop 
+protection in a sustainable manner. Microbial biopesticides in the Indian market 
+come under different categories viz., fungi, bacteria, and viruses. At present, there 
+are about 20 microorganisms registered as biopesticides with Central Insecticide 
+Board and Registration Committee (CIB & RC). 
+Indian Council of Agricultural Research (ICAR) through its constituent institutes 
+is engaged in development and evaluation of microbial biopesticides since last few 
+decades. Some of the biopescticide formulations developed at ICAR are being validated 
+through the network of AICRP-Biological Control of Crop Pests and Diseases. The 
+recent invasions of fall armyworm (FAW) infesting maize and devastating infection 
+of banana by Fusarium cubense TR4 have been successfully managed with microbial 
+agents developed by ICAR.
+This compendium on “ICAR Technologies: Biopesticides for Eco-friendly Pest 
+Management” is a timely initiative as microorganisms will be playing a vital role in 
+shaping the future of agriculture. With great pleasure I extend my sincere thanks 
+to Dr. T. Mohapatra, Hon'ble Secretary, Department of Agricultural Research and 
+Education  and Director General, ICAR for guidance and support in preparation of 
+this compendium. I congratulate all the developers of technologies and thank other 
+editors of this compendium.
+(T.R. Sharma)
+Deputy Director General (Crop Science)
+Indian Council of Agricultural Research
+
+vii
+cONTENTS
+Foreword-Secretary, DARE and DG, ICAR iii
+Preface v
+Introduction ix
+Abbreviations x
+1. Shatpada Aphid Kill 01
+2. Shatpada Rugose Whitefly Kill 02
+3. Shatpada Sucking pest Hit 03
+4. Shatpada Grubicide 04
+5. Shatpada Larvicide 05
+6. Shatpada Armour 06
+7. Shatpada Terminator 07
+8. Shatpada All Rounder 08
+9. Shatpada Master Blaster 09
+10. ICAR-FUSICONT 10
+11. Eco-Pesticide 11
+12. Bio-Pulse 12
+13. Maru sena 1 13
+14. Maru sena 3 14
+15. Mishrit Maru sena 15
+16. NRRI-BBLF 16
+17. NRRI-MALF 17
+18. Triguard Th-L 18
+19. Triguard Th-P 19
+20. Triguard Ta-P 20
+21 Bioguard Bt-L 21
+viii
+22. Mycoguard Bb-L 22
+23. ARKA Krishi Vriddhi 23
+24. ARKA Krishi Veera 24
+25. ARKA Krishi Samrakshak 25
+26. ARKA Krishi Rakshak 26
+27. ARKA Krishi Kawach 27
+28. ARKA Krishi All Rounder and ARKA Plant Growth Booster 28
+29. Manjari Vineguard 29
+30. Manjari Rakshak 30
+31. Pusa 5SD 31
+ix
+INTRoDucTIoN
+Pests and pathogens cause a major loss of agricultural produce 
+every year. Management of these menace using chemical pesticides 
+and fungicides has come at the cost of long term agricultural 
+sustainability. This non-judicious use of agrochemicals coupled 
+with climate change worsened the situation leading to changes 
+in pest and pathogen behaviour and development of resistance. 
+Microorganisms due to their extraordinary metabolic diversity are 
+known to produce a battery of secondary metabolites including 
+antimicrobial peptides, volatiles, toxins and enzymes. Many such 
+microorganisms have been substantially utilized as biopesticides to 
+control several phytopathogenic fungi, bacteria, nematodes and insect 
+pests. Unlike their chemical counter parts, biopesticides aid to manage 
+pests and pathogens without any adverse effects on soil health and 
+environment. Microbial biopesticides developed with microorganisms 
+like Trichoderma, Beauveria, Metarhizium, Bacillus, Pseudomonas are 
+known for their role in management of pests and pathogens. With the 
+increasing reports on emerging pests and pathogens, the biopesticides 
+are expected to play a major role in sustainable management. Currently, 
+about 20 microorganisms are registered as biopesticides with Central 
+Insecticide Board and Registration Committee (CIB & RC).
+ICAR through its constituent institutes and All India Coordinated 
+Research Projects (AICRPs) has developed and validated various 
+formulations of biopesticides. Challenges faced by biopesticides are 
+lower efficacy and shelf life, narrow host range, inability to reproduce 
+the results under field conditions. Constant efforts are being made 
+by ICAR to overcome these challenges. This bulletin is a compilation 
+of 31 biopesticides developed by ICAR that are at various stages of 
+registration and commercialization.
+AbbRevIATIoNS
+AAU : Anand Agricultural University
+AICRP : All India Coordinated Research Project
+ANGRAU : Acharya N.G. Ranga Agricultural University
+ARS : Agricultural Research Station
+BCCP&D : Biological Control of Crop Pests and Diseases
+CAZRI : Central Arid Zone Research Institute
+cfu : Colony Forming Unit
+CIB&RC : Central Insecticide Board and Registration Committee
+DARE : Department of Agricultural Research and Education
+FYM : Farmyard Manure
+GAU : Gujarat Agricultural University
+IARI : Indian Agricultural Research Institute
+ICAR : Indian Council of Agricultural Research
+IIHR : Indian Institute of Horticultural Research
+IIOR : Indian Institute of Oilseeds Research
+IISS : Indian Institute of Seed Science
+ITCC : Indian Type Culture Collection
+JNKVV : Jawaharlal Nehru Krishi Vishwavidyalaya
+KVK : Krishi Vigyan Kendra
+MCC : Microbial Culture Collection 
+  (now National Centre for Microbial Resource)
+MTCC : Microbial Type Culture Collection
+MPKV : Mahatma Phule Krishi Vidyapeeth
+NAIMCC : National Agriculturally Important Microbial Culture Collection
+NBAIM : National Bureau of Agriculturally Important Microorganisms
+NBAIR : National Bureau of Agricultural Insect Resources
+NRC : National Research Centre
+xi
+NRRI : National Rice Research Institute
+OUAT : Odisha University of Agriculture and Technology
+PRSS : Pulses Research Substation
+RARS : Regional Agricultural Research Station
+SKUAST : Sher-e-Kashmir University of Agricultural Science and  
+  Technology
+TNAU : Tamil Nadu Agricultural University
+UAS : University of Agricultural Sciences
+1
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Beauveria bassiana ICAR-NBAIR  
+Bb-5a (NAIMCC-F-00396)
+ y Type: Oil formulation; 1 × 108 cfu/mL
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops:  Aphids in chilli and brinjal (Aphis 
+gossypii); cabbage (Brevicoryne brassicae ) and cowpea (Aphis 
+craccivora)
+ y Method of application: Three foliar sprays at 5 mL/L of water 
+at 15 days interval after pest incidence; Water required for each 
+spray: 200 L/ha
+ y Target agroecological zones/states: Karnataka 
+ y validation: In Bengaluru, Karnataka during 2017 and 2018
+ y Toxicological data required for CIB&RC registration yet to be 
+generated
+ y commercialization: Available for licensing
+ y benefits:
+  50-83% pest reduction 
+  20-33% increase in yield
+1. Shatpada Aphid Kill
+Effect of Shatpada Aphid Kill on brinjal aphid in Bengaluru, Karnataka during 2017
+Effect of Shatpada Aphid Kill on cabbage aphid in Bengaluru, Karnataka during 2017
+Treated 
+Treated 
+Control
+Control
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+2
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Isaria 
+fumosorosea ICAR-NBAIR 
+Pfu5 (NAIMCC-F-02139)
+ y Type: Talc; 1 × 10 8 cfu/g; Oil 
+formulation; 1 × 108 cfu/mL
+ y Shelf life: 12 months at  
+25-35°C
+ y Target pests and crops: 
+Rugose Spiralling Whitefly 
+(Aleurodicus rugioperculatus) 
+in coconut and oil palm
+ y Method of application: Two-three foliar sprays at 5mL/L of water (or 5 g/L of 
+water for talc formulation) at 15 days interval after pest incidence; Water required 
+for each spray: 900 L/ha
+ y Target agroecological zones/states: Karnataka, Andhra Pradesh, Tamil Nadu and 
+Kerala
+ y validation: Coastal Andhra Pradesh on Coconut and Oil Palm for two years; 
+Coastal and Southern Karnataka, Kerala and Tamil Nadu on Coconut for two years
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Available for licensing
+ y benefits:
+  70-75% pest reduction 
+Before spraying After spraying
+Effect of Shatpada Rugose Whitefly Kill on Coconut 
+(var. ECT) Rugose spiralling whitefly (RSW) 
+in coastal Andhra Pradesh during 2019
+Infection of NBAIR Pfu-5 on Coconut 
+RSW eggs, third and fourth instar 
+nymphs and adult
+2. Shatpada Rugose Whitefly Kill
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+3
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Lecanicillium lecanii ICAR-NBAIR 
+Vl-8 (NAIMCC-F-01851)
+ y Type: Oil formulation; 1 × 108 cfu/mL
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops:  Aphids in chilli (Aphis gossypii ) 
+and cowpea (Aphis craccivora) 
+ y Method of application: Three foliar sprays at 5 mL/L 
+of water at 15 days interval after pest incidence; Water 
+required for each spray: 900 L/ha
+ y Target agroecological zones/states: Karnataka 
+ y validation: Bengaluru, Karnataka for two years 
+ y Toxicological data required for CIB&RC registration yet to 
+be generated
+ y commercialization: Available for licensing
+ y benefits:
+  75-78% pest reduction 
+  24-27% increase in yield
+3. Shatpada Sucking pest Hit
+Effect of Shatpada Sucking pest Hit on chilli aphids in Bengaluru, Karnataka during 2018
+Treated
+ Control
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+4
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Metarhizium 
+anisopliae ICAR-NBAIR Ma 4 
+(NAIMCC-F-01296)
+ y Type: Talc formulation; 1 × 108 cfu/g
+ y Shelf life: 12 months at 25-35°C
+ y Target pest and crop: White grubs 
+(Holotrichia spp.) in sugarcane
+ y Method of application: Soil 
+application at 2.5 kg mixed with 250 
+kg farmyard manure per hectare. The 
+application has to be done twice in a year during June/July and July/August at 30 
+days interval
+ y Target agroecological zones/states: Karnataka, Andhra Pradesh and Maharashtra 
+ y validation: AICRP-BCCP&D centres at UAS-Raichur, Karnataka and RARS, 
+ANGRAU, Anakapalle, Andhra Pradesh for two years
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Commercialized in 2020; Available for licensing
+ y benefits:
+  75-96% pest reduction 
+  33-62% increase in yield
+4.  Shatpada Grubicide
+Effect of Shatpada Grubicide on sugarcane (var. CO-86032) white grub in Raichur,  
+Karnataka during 2017-18
+Treated Control
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+5
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Metarhizium 
+anisopliae ICAR-NBAIR Ma 35 
+(NAIMCC-F-04130)
+ y Type: Talc; 1 × 10 8 cfu/g; Oil 
+formulation; 1 × 108 cfu/mL
+ y Shelf life: 12 months at 25-35°C
+ y Target pest and crop:  Fall armyworm 
+(Spodoptera frugiperda) in maize 
+ y Method of application: Three foliar sprays at 5  mL/L of water (or 5 g/L of water 
+for talc based formulation) at 20, 30 and 40 days after sowing; Water required for 
+each spray: 200 L/ha
+ y Target agroecological zones/states: Karnataka, Andhra Pradesh, Tamil Nadu and 
+Maharashtra
+ y validation: Southern Karnataka; AICRP-BCCP&D centres at RARS, ANGRAU, 
+Anakapalle, Andhra Pradesh; TNAU, Coimbatore, Tamil Nadu and MPKV , Pune, 
+Maharashtra for two years
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Available for licensing
+ y benefits:
+  33-76% reduction in plant damage  
+  38-53% increase in yield 
+5. Shatpada Larvicide
+                                                            Healthy larva            Mycosed larva
+Effect of Shatpada Larvicide on maize 
+Fall armyworm in Bengaluru, Karnataka during 2019
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+6
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Bacillus thuringiensis var. kurstaki 
+ICAR-NBAIR BT25 
+ y Type: Liquid; 1 × 108 cfu/mL
+ y Shelf life: 12 months at 25-35°C
+ y Target pest and crop:  Fall armyworm (Spodoptera  
+frugiperda) in maize 
+ y Method of application: Two to three foliar sprays at 10  
+mL/L of water at 25, 35 and 45 days after sowing; Water 
+required for each spray: 200 L/ha
+ y Target agroecological zones/states: Karnataka, Andhra 
+Pradesh, Maharashtra, Tamil Nadu, Gujarat and Odisha 
+ y validation: Field evaluation carried out under AICRP-
+BCCP&D at Regional Agricultural Research Station (RARS), Anakapalle, Andhra 
+Pradesh, Odisha University of Agriculture & Technology (OUAT), Bhubaneshwar,  
+Odisha and Anand Agricultural University (AAU), Anand, Gujarat during  
+2018-19 and 2019-20
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Available for licensing
+ y benefits:
+  85-90% reduction in pest
+  33-40% increase in yield
+6. Shatpada Armour
+Effect of Shatpada Armour on maize at Anakapalle, Andhra Pradesh during 2018-19
+ControlTreated
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+7
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Bacillus thuringiensis var. kurstaki  
+ICAR-NBAIR BTG4 
+ y Type: Liquid; 1 × 108 cfu/ml
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops:  Legume pod borer (Helicoverpa armigera, 
+Maruca sp.), diamondback moth (Plutella xylostella ), spotted 
+stem borer (Chilo partellus ), rice leaf folder (Cnaphalocrocis 
+medinalis), brinjal shoot borer (Leucinodes orbonalis ) and red 
+hairy caterpillar (Amsacta albistriga)
+ y Method of application: Two to three foliar sprays at 20 mL/L of 
+water at pre flowering and post flowering stages; Water required 
+for each spray: 200 L/ha
+ y Target agroecological zones/states: Karnataka, Andhra Pradesh, Maharashtra, 
+Tamil Nadu, Gujarat and Odisha 
+ y validation: The technology was tested at UAS, Raichur, Karnataka, AAU, Anand, 
+Gujarat, RARS, Anakapalle, Andhra Pradesh, TNAU, Coimbatore; Tamil Nadu,  
+OUAT, Bhubaneshwar, Odisha during 2016-17, 2017-18, 2018-19 and 2019-20
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Commercialized in 2020; Licensed to three private companies
+  M/s Ponalabs, Bengaluru, Karnataka
+  Allwin Industries, Pithampur, Dhar, Madhya Pradesh 
+  Agri Bio Care, Kottayam, Kerala
+ y benefits:
+  83-85% reduction in pest
+  19-35% increase in yield
+7. Shatpada Terminator
+Effect of Shatpada Terminator on pod borer in pigeon pea at Raichur, Karnataka during 2016-17
+Treated
+ Control
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+
+8
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Pseudomonas fluorescens 
+NBAIR-PFDWD 
+ y Type: Talc based; 1 × 108 cfu/g
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops:  Thrips spp. in capsicum 
+and Fusarium wilt of red gram 
+ y Method of application: Foliar application at 
+20 g/L of water at 20, 30, 40 and 50 days after 
+transplanting for the management of thrips 
+in capsicum; Water required: 200 L/ha; Soil 
+application in the root zone during 25, 40 and 55 days after sowing at 2.5 kg/ha 
+for management of red gram wilt; Mix 2.5 kg of formulation in 250 kg farmyard 
+manure and apply
+ y Target agroecological zones/states: Karnataka and Telangana 
+ y validation: The technology was tested at ICAR-NBAIR, Bengaluru, Karnataka 
+during 2018 and 2019 for thrips management in capsicum; Validated at KVK, 
+Palem, Telangana for management of Fusarium wilt of red gram during 2020
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Commercialized in 2020; Licensed to two organizations
+  Siddaganga Oil and Bio Industries LLP , Tumakuru, Karnataka
+  Anand Agricultural University (AAU), Anand, Gujarat
+ y benefits:
+  70-90% thrips reduction; 50-60% Fusarium wilt reduction
+  48-53% increase in yield
+8. Shatpada All Rounder
+Effect of Shatpada All Rounder on yield of capsicum at ICAR-NBAIR, Bengaluru, Karnataka 
+during 2018
+  Treated   Control
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+9
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Bacillus albus  
+NBAIR-BATP 
+ y Type: Talc based; 1 × 108 cfu/g
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops:  Fall armyworm  
+(Spodoptera frugiperda ) of maize, tomato 
+pin worm (Tuta absoluta ) and Fusarium 
+wilt of cucumber (Fusarium oxysporum f. sp. 
+cucumerinum) 
+ y Method of application: Foliar application at 20 g/L of water at 20, 30, 40 and 50 
+days after sowing for management of fall armyworm of maize and tomato pin 
+worm; Water required: 200 L/ha; Soil application in the root zone during 25, 40 
+and 55 days after sowing at 2.5 kg/ha for management of cucumber wilt; Mix 2.5 
+kg of formulation in 250 kg farmyard manure and apply
+ y Target agroecological zones/states: Karnataka and Andhra Pradesh
+ y validation: The technology was tested at ICAR-NBAIR, Bengaluru, Karnataka 
+and RARS, Anakapalle, Andhra Pradesh during 2019-20 and 2020-21 for fall 
+armyworm and tomato pinworm; Kanakapura and Kolar districts, Karnataka for 
+management of cucumber wilt during 2020-21 
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Available for licensing
+ y benefits:
+  70-80% Fall armyworm reduction, 80-90% tomato pin worm reduction and  
+45-50% Fusarium wilt reduction
+  26-29% increase in maize yield; 30-40%  increase in tomato yield and 22-24% 
+increase in cucumber yield
+9. Shatpada Master Blaster
+Control        Treated
+Effect of Shatpada Master Blaster on tomato pin worm
+Contact:
+Director, ICAR-National Bureau of Agricultural Insect Resources, Bengaluru-560024; 
+e-Mail: director.nbair@icar.gov.in
+10
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Trichoderma reesei 
+CSR-T-3 (NAIMCC-SF-0030)
+ y Type: Wettable powder; 1 × 107 cfu/g
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops:  Fusarium wilt of 
+banana ( Fusarium oxysporum  f. sp. cubense 
+Tropical race 4 and race 1)
+ y Method of application: 3% of WP (w/v) in 
+water as soil drenching at 1 L per plant 4 times  
+(3
+rd, 5th, 9th and 12th month after planting); Water 
+required; 1500 L/ha
+ y Target agroecological zones/states: Uttar 
+Pradesh, Bihar, Andhra Pradesh, Tamil Nadu, 
+Assam, Nagaland, West Bengal and Gujarat
+ y validation: Validated under AICRP-Fruits in Andhra Pradesh, Gujarat and 
+Tamil Nadu; Assam Agricultural University, Jorhat, Assam and Central Institute 
+of Horticulture, Medziphema, Nagaland for two years; farmers' fields at different 
+districts of Bihar and Uttar Pradesh
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Commercialized in 2020; Available for licensing
+ y benefits:
+  85-90% reduction in disease incidence
+10. ICAR-FUSICONT
+Effect of ICAR-FUSICONT on banana (cv. Grand Naine) wilt in Ayodhya,  
+Uttar Pradesh during 2018-19
+Treated sick plot
+ Control sick plot
+Contact:
+Director, ICAR-Central Soil Salinity Research Institute, Karnal-132001; 
+e-Mail: director.cssri@icar.gov.in
+11
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Pseudomonas fluorescens 
+(NAIMCC-SB-0053)
+ y Type: Talc formulation; 1 × 108 cfu/g
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops: Spot blotch of wheat, sheath 
+blight of rice and wilt of tomato and chickpea
+ y Method of Application:  Seed treatment (10 g/kg 
+seed)
+ y Target agroecological zones/states: Uttar Pradesh
+ y validation: Field trials at ICAR-NBAIM, Mau, Uttar 
+Pradesh in tomato, rice, and wheat; KVK, Ghazipur, 
+Uttar Pradesh in chickpea; KVK, Azamgarh, Uttar Pradesh in direct seeded rice; 
+ICAR-IISS, Mau, Uttar Pradesh in wheat; farmers’ fields on chickpea and wheat
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Available for licensing 
+ y benefits: 
+  45-55% reduction in spot blotch disease of wheat, sheath blight in rice and wilt 
+of tomato 
+  15-25% reduction in usage of chemical pesticides
+11. Eco-Pesticide
+Effect of Eco-Pesticide on wheat (var. HUV 234) at ICAR-NBAIM, Mau, Uttar Pradesh 
+during 2016-17
+Treated
+ Control
+Contact:
+Director, ICAR-National Bureau of Agriculturally Important Microorganisms, 
+Mau-275103; e-Mail: director.nbaim@icar.gov.in
+12
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituents: Trichoderma harzianum  
+(NAIMCC-SF-0036) and Bacillus amyloliquefaciens 
+(NAIMCC-SB-0052)
+ y  Type: Talc formulation; 1 × 107 cfu/g each
+ y Shelf life: 12 months at 25-35°C
+ y Target pests and crops: Wilt of chickpea, lentil, pea, 
+pigeon pea; damping off/seedling mortality in papaya; 
+Target fungi: Rhizoctonia, Sclerotium, Sclerotinia, 
+Fusarium, Pythium, Ralstonia, Macrophomina, 
+Bipolaris and Phoma 
+ y Method of Application:  Seed treatment (10 g/kg 
+seeds) 
+ y Target agroecological zones/states: Uttar Pradesh, Bihar and Chhattisgarh
+ y validation: Four KVKs of Madhya Pradesh at Hamirpur, Chhattarpur, Tikamgarh 
+and Panna on chickpea; KVK Ghazipur, Uttar Pradesh on chickpea; KVK 
+Azamgarh, Uttar Pradesh on rice; ICAR-NBAIM, Mau, Uttar Pradesh on tomato, 
+wheat and maize; farmers' fields at Mau, Uttar Pradesh on chickpea, pea, lentil, 
+vegetables and wheat; farmers' fields at Begusarai, Hazaribagh and Bhabhua, Bihar 
+on papaya
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Available for licensing 
+ y benefits: 
+  Reduce the wilt incidence by 40-75% in chickpea, 30-55% in lentil, 45-60% 
+in pea, 25-40% in pigeonpea and 60-75% reduction in damping off/seedling 
+mortality in papaya 
+  Yield increase in chickpea, pea and lentil by 10-15%
+12. Bio-Pulse
+Effect of inoculation of Bio-Pulse on chickpea (var. JG 62) in Ghazipur, Uttar Pradesh during 2016-17
+Contact:
+Director, ICAR-National Bureau of Agriculturally Important Microorganisms, 
+Mau-275103; e-Mail: director.nbaim@icar.gov.in
+Treated
+ Control
+
+13
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Trichoderma 
+harzianum ICAR-CAZRI AZNF-5 
+(MCC 1723) 
+ y Type: Carrier based formulation; 1 × 108 
+cfu/g
+ y Shelf life: 4 months at 55°C
+ y Target pathogen and crops:  Fusarium 
+oxysporum f. sp. cumini in cumin
+ y Method of application: Seed treatment 
+(4 g/kg seed) and soil application (1 kg/
+ha with 50 kg FYM) before sowing
+ y Target agroecological zones/states: 
+Arid and semi arid regions of Rajasthan
+ y validation: Experimental farms at 
+ICAR-CAZRI, Jodhpur, Rajasthan; farmers’ fields at Pali and Jodhpur, Rajasthan 
+for two years
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Available for licensing 
+ y benefits:
+  34-52% reduction in plant mortality  
+  14.5-25.8% yield increase  
+13. Maru sena 1
+Effect of Maru sena 1 on Cumin (var. GC-4) at ICAR-CAZRI, Jodhpur, Rajasthan during 2015-16
+Control
+Treated
+Contact:
+Director, ICAR- Central Arid Zone Research Institute, Jodhpur-342003; 
+e-Mail: director.cazri@icar.gov.in
+14
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Bacillus firmus ICAR-
+CAZRI AZ-1 (MCC 0122)
+ y Type: Carrier based formulation; 1 × 108 cfu/g
+ y Shelf life: 6 months at 25-35°C
+ y Target pathogen and crops: Macrophomina 
+phaseolina in legumes and oil seed crops
+ y Method of application: Seed treatment (30 g/
+kg seed with jaggery solution) before sowing
+ y Target agroecological zones/states: Arid and 
+semi arid region of Rajasthan
+ y validation: Experimental farm at ICAR-
+CAZRI, Jodhpur; farmers’ fields at Nagaur and 
+Jodhpur, Rajasthan for three years
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Patent granted in 2019 (Patent No.  309385); Available for 
+licensing
+ y benefits:
+  37-54% reduction in plant mortality  
+  23.2-31.6% yield increase  
+14. Maru sena 3
+Effect of Maru sena 3 on guar (var. RGC 936) at ICAR-CAZRI, Jodhpur, Rajasthan during 2007-08
+Control  Treated
+Contact:
+Director, ICAR- Central Arid Zone Research Institute, Jodhpur-342003; 
+e-Mail: director.cazri@icar.gov.in
+15
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Trichoderma 
+harzianum ICAR-CAZRI AZNF-5 (MCC 
+1723) and Bacillus firmus ICAR-CAZRI AZ-1 
+(MCC 0122) 
+ y Type: Carrier based formulation; 1 × 10 8 
+cfu/g of each
+ y Shelf life: 4 months at 55°C
+ y Target pathogen and crops:  Macrophomina 
+phaseolina in legumes and oil seed crops
+ y Method of application: Seed treatment (10 
+g/kg seed with jaggery) and soil application  
+(1 kg/ha with 40 kg FYM) before sowing
+ y Target agroecological zones/states: Arid and 
+semi arid regions of Rajasthan
+ y validation: Experimental farms at ICAR-CAZRI, Jodhpur; farmers' fields at Pali 
+and Jodhpur, Rajasthan for two years
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Patent granted in 2019 (Patent No.  326803); Available for 
+licensing
+ y benefits
+  37-56.4% reduction in plant mortality  
+  20-23% yield promotion
+15. Mishrit Maru sena
+Control  Treated
+Effect of Mishrit Maru sena on guar (var. RGC 1033) at ICAR-CAZRI, Jodhpur, Rajasthan 
+during 2015-16
+Contact:
+Director, ICAR-Central Arid Zone Research Institute, Jodhpur-342003; 
+e-Mail: director.cazri@icar.gov.in
+16
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Beauveria bassiana  TF6 
+(MTCC 12233)
+ y Type: Talc formulation; 1 × 109 cfu/g
+ y Shelf life: 8 months at 25-35°C
+ y Target pests and crops:  Rice leaf folder 
+(Cnaphalocrocis medinalis)
+ y Method of application: Foliar spray at 2 g/L; Water 
+required: 500 L/ha
+ y Target agroecological zones/states: Odisha
+ y validation: Farmers’ fields of Mahanga, 
+Nischintakoili and Santpur village of Odisha; 
+experimental fields of NRRI, Cuttack, Odisha for 
+four consecutive seasons
+ y Toxicological data required for CIB&RC 
+registration yet to be generated
+ y commercialization: Patent filed (260/KOL/2015 
+dated 10.03.2015); Available for licensing
+ y benefits:
+  74% leaf folder mortality
+16. NRRI-BBLF
+Effect of application of B. bassiana (a) on rice leaf folder larvae (b)
+Contact:
+Director, ICAR-National Rice Research Institute, Cuttack-753006, Odisha; 
+e-Mail: director.nrri@icar.gov.in
+17
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Metarhizium anisopliae 
+TF19 (MTCC 11644)
+ y Type: Talc formulation; 1 × 109 cfu/g
+ y Shelf life: 8 months at 25-35°C
+ y Target pests and crops:  Rice leaf folder 
+(Cnaphalocrocis medinalis)
+ y Method of application: Foliar spray at 2 g/L; Water 
+required: 500 L/ha 
+ y Target agroecological zones/states: Odisha
+ y validation: Farmers’ fields of Mahanga, 
+Nischintakoili and Santpur village of Odisha; 
+experimental fields of NRRI, Cuttack, Odisha for 
+four years
+ y Toxicological data required for CIB&RC registration 
+yet to be generated 
+ y commercialization: Patent filed (265/KOL/2015 
+dated 10.03.2015); Available for licensing
+ y benefits:
+  77% leaf folder mortality 
+17. NRRI-MALF
+Rice leaf folder larvae infected with M. anisopliae
+Contact:
+Director, ICAR- National Rice Research Institute, Cuttack-753006, Odisha; 
+e-Mail: director.nrri@icar.gov.in
+18
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Trichoderma harzianum Th4d 
+(NAIMCC-F-02188)
+ y Type: Liquid suspension concentrate; 1 × 109 cfu/mL
+ y Shelf life: 18 months at 25-35°C
+ y Target pests and crops:  Phytophthora seedling blight, 
+Macrophomina root rot and Fusarium wilt of safflower and gray 
+mold of castor, Alternaria aster leaf blight and powdery mildew of 
+sunflower 
+ y Method of application: Seed treatment at 1 mL suspension 
+concentrate/kg of seeds, Foliar spray at 1-2 mL/L of water; Water 
+required for spray: 500 L/ha
+ y Target agroecological zones/states: Telangana, Maharashtra and Tamil Nadu
+ y validation: Evaluated under AICRP-Oilseeds on sunflower, safflower and castor 
+for five years
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Commercialized in 2015; Licensed to 4 companies 
+  M/s Dhampur Sugars Pvt. Ltd., Dhampur, Uttar Pradesh
+  M/s Shri Ram Bioorganics, Jaspur, Uttarakhand
+  M/s Vidarbha Biotech, Y avatmal, Maharashtra
+  M/s Agricos Pvt. Ltd., Y avatmal, Maharashtra
+ y benefits: 
+  Symbiotic colonizer
+  Effective against a wide range of diseases
+  Helps to achieve high yield
+18. Triguard Th-L
+Effect of Triguard Th-L on safflower (var. PBNS 12) at Parbhani, Maharashtra during 2015-16
+Treated Control
+Contact:
+Director, ICAR-Indian Institute of Oilseed Research, Rajendranagar, Hyderabad-500030; 
+e-Mail: director.iior@icar.gov.in
+19
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Trichoderma harzianum 
+Th4 (NAIMCC-F-02188)
+ y Type: Wettable powder; 1 × 109 cfu/g
+ y Shelf life: 18 months at 25-35°C
+ y Target pests and crops:  Phytophthora seedling 
+blight, Macrophomina root rot and Fusarium 
+wilt of safflower and Fusarium wilt of castor and 
+Aspergillus root rot in groundnut
+ y Method of application: Seed treatment at 10 g/
+kg of seeds
+ y Target agroecological zones/states: Telangana, 
+Maharashtra and Tamil Nadu
+ y validation: Evaluated under AICRP-Oilseeds on  
+sunflower, safflower and castor for eight years
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Licensed to M/s M R Biologics Pvt Ltd., Hyderabad, 
+Telangana
+ y benefits: 
+  Symbiotic colonizer
+  Effective against a wide range of diseases
+  Helps to achieve high yield
+19. Triguard Th-P
+Effect of Triguard Th-P on groundnut (var. K-6) at Palem, Telangana during 2018-19
+Treated Control Control Treated
+Contact:
+Director, ICAR-Indian Institute of Oilseed Research, Rajendranagar, Hyderabad-500030; 
+e-Mail: director.iior@icar.gov.in 
+20
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Trichoderma asperellum 
+Ta DOR 7316 (MTCC 5623)
+ y Type: Wettable powder; 1 × 109 cfu/g
+ y Shelf life: 18 months at 25-35°C
+ y Target pests and crops:  Phytophthora seedling 
+blight, Macrophomina root rot and Fusarium 
+wilt of safflower and Fusarium wilt of castor 
+ y Method of application: Seed treatment at 10 g/
+kg of seeds
+ y Target agroecological zones/states: Telangana, 
+Maharashtra and Tamil Nadu
+ y validation: Evaluated under AICRP-Oilseeds on sunflower, safflower and castor 
+for five years
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Patent filed (1117/CHE/2013); Available for licensing
+ y benefits: 
+  60% reduction in soil borne disease incidences
+  3-5% increase in yield
+20. Triguard Ta-P
+Effect of Triguard Ta-P on safflower (var. Phule Kusum) at Solapur, Maharashtra during 2013-14
+Treated Control
+Contact:
+Director, ICAR-Indian Institute of Oilseed Research, Rajendranagar, Hyderabad-500030, 
+Telangana; e-Mail: director.iior@icar.gov.in
+21
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Bacillus thuringiensis var. kurstaki 
+DOR Bt-127 (MTCC 5976/NAIMCC-B-01463)
+ y Type: Liquid suspension concentrate; 1 × 1011 cfu/mL
+ y Shelf life: 24 months at 25-35°C
+ y Target pests and crops:  Spodoptera litura in soybean 
+ y Method of application: Two foliar sprays at 3 mL/L of 
+water at 10 days interval; Water required for each spray: 
+1500 L/ha
+ y Target agroecological zones/states: Madhya Pradesh, 
+Karnataka, Manipur and Telangana 
+ y validation: AICRP-Soybean for three years; Farmers’ 
+fields on soybean at Hegdoli and Nizamabad, Telangana
+ y Toxicological data required for CIB&RC registration 
+already generated
+ y commercialization: Available for licensing 
+ y benefits:
+  69-95% reduction in larval population
+  26-49% increase in yield
+21. Bioguard Bt-L
+Effect of Bioguard Bt-L on larval mortality of Spodoptera litura
+ControlTreated
+Contact:
+Director, ICAR-Indian Institute of Oilseeds Research, Rajendranagar, Hyderabad-500030, 
+Telangana; e-Mail: director.iior@icar.gov.in
+22
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: 
+Beauveria bassiana (ITCC 
+4513)
+ y Type: Liquid suspension 
+concentrate; 1 × 10 12 cfu/
+mL
+ y Shelf life: 24 months at 
+25-35°C
+ y Target pests and crops:  
+Helicoverpa armigera in 
+pigeon pea
+ y Method of application: Two to three foliar sprays at 0.3 mL/L of water at 10 days 
+interval; Water required for each spray: 700 to 1000 L/ha
+ y Target agroecological zones/states: Maharashtra, Gujarat, Telangana and Andhra 
+Pradesh
+ y validation: AICRP-Pigeon pea and ICAR-IIOR experimental farms at Hyderabad, 
+Telangana for three years
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Commercialized in 2014; Available for licensing
+ y benefits:
+  24-45% reduction in pod damage
+  21-33% increase in yield
+22. Mycoguard Bb-L
+             Suspension concentrate                Dispersion in water
+Effect of Mycoguard Bb-L formulation on pigeon pea pod borer
+Larval mortality due to 
+B. bassiana infection
+Healthy larva
+Contact:
+Director, ICAR-Indian Institute of Oilseeds Research, Rajendranagar, Hyderabad-500030, 
+Telangana; e-Mail: director.iior@icar.gov.in
+23
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Trichoderma 
+harzianum ICAR-IIHR Th-2 (NAIMCC-
+SF-0033/ITCC 6888)
+ y Type: Wettable powder; 2 × 106 cfu/g
+ y Shelf life: 10 months at 25-35°C
+ y Target pests and crops:  
+  Root knot nematode (Meloidogyne 
+incognita)
+  Fungal pathogens–Fusarium oxysporum f. 
+sp. vasinfectum, Fusarium oxysporum f. sp. 
+lycopersici, Sclerotium rolfsii and Fusarium 
+solani
+  Crops: Brinjal, tomato, carrot and okra
+ y Method of application: Seed treatment at 20 
+g/kg seed; nursery bed treatment at 50 g/m 2 
+for transplantable crops; soil application at 5 
+kg/ha after enrichment in 5 tons FYM before 
+sowing or transplanting
+ y Target agroecological zones/states: All
+ y validation: Karnataka, Odisha and Tamil 
+Nadu for two seasons (2007-2009); AICRP 
+on Nematodes, Vegetables, Floriculture and 
+Fruits
+ y Toxicological data required for CIB&RC 
+registration already generated
+ y commercialization: Commercialized in 
+2008; Licensed to 113 companies
+ y benefits:
+  66-68% suppression in egg hatching of 
+Meloidogyne incognita
+  62-67% inhibition in growth of target fungi
+  14.2–18.4% increase in yield in brinjal, tomato, carrot and okra
+23. ARKA Krishi Vriddhi
+ARKA Krishi Vriddhi
+T. harzianum culture
+Contact:
+Director, ICAR-Indian Institute of Horticultural Research, Bengaluru-560089; 
+e-Mail: director.iihr@icar.gov.in
+24
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Trichoderma viride  
+ICAR-IIHR Tv-5 (NAIMCC-SF-0032/ITCC 
+6889)
+ y Type: Wettable powder; 2 × 106 cfu/g
+ y Shelf life: 10 months at 25-35°C
+ y Target pests and crops:  
+  Root knot nematode (Meloidogyne  
+incognita)
+  Fungal pathogens–Fusarium oxysporum f. 
+sp. vasinfectum, Fusarium oxysporum f. sp. 
+lycopersici, Sclerotium rolfsii and Fusarium 
+solani
+  Crops: Brinjal, tomato, carrot and okra
+ y Method of application: Seed treatment at 20 
+g/kg seed; Nursery bed treatment at 50 g/m
+2 
+for transplantable crops; Soil application at 5 
+kg/ha after enrichment in 5 tons FYM before 
+transplanting or sowing
+ y Target agroecological zones/states: All
+ y validation: Karnataka, Odisha and Tamil 
+Nadu for two seasons (2007-2009); AICRP on 
+Nematodes, Vegetables, Floriculture and Fruits
+ y Toxicological data required for CIB&RC 
+registration already generated
+ y commercialization: Commercialized in 2014; 
+Licensed to 180 companies
+ y benefits:
+  56-58% suppression in egg hatching of Meloidogyne incognita
+  63-72% inhibition in growth of target fungi
+  12.8–16.2% increase in yield in brinjal, tomato, carrot and okra
+24. ARKA Krishi Veera
+ARKA Krishi Veera
+T. viride culture
+Contact:
+Director, ICAR-Indian Institute of Horticultural Research, Bengaluru-560089; 
+e-Mail: director.iihr@icar.gov.in
+25
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial c onstituent: Pseudomonas 
+fluorescens ICAR-IIHR Pf-2 (NAIMCC-
+SB-0038/ITCC B0034)
+ y Type: Wettable powder; 2 × 108 cfu/g
+ y Shelf life: 10 months at 25-35°C
+ y Target pests and crops:  
+  Root knot nematode (Meloidogyne  
+incognita)
+  Bacterial pathogens– Ralstonia 
+solanacearum and Erwinia carotovora
+  Fungal pathogens– Fusarium oxysporum 
+f. sp. vasinfectum and Fusarium solani
+  Crops: Brinjal, tomato, carrot and okra
+ y Method of application: Seed treatment at 20 
+g/kg seed; Nursery bed treatment at 50 g/m
+2 
+for transplantable crops; Soil application at 5 
+kg/ha after enrichment in 5 tons FYM before 
+transplanting or sowing
+ y Target agroecological zones/states: All
+ y validation: Karnataka, Odisha and Tamil 
+Nadu for two seasons (2007-2009); AICRP 
+on Nematodes, Vegetables, Floriculture and 
+Fruits
+ y Toxicological data required for CIB&RC 
+registration already generated
+ y commercialization: Commercialized in 
+2006; Licensed to 171companies 
+ y benefits:
+  71-74% suppression in egg hatching of Meloidogyne incognita
+  60-72% reduction in growth of target fungi 
+  13.2–19.4% increase in yield of brinjal, tomato, carrot and okra
+25. ARKA Krishi Samarakshak
+ARKA Krishi Samarakshak
+P . fluorescens culture
+Contact:
+Director, ICAR-Indian Institute of Horticultural Research, Bengaluru-560089; 
+e-Mail: director.iihr@icar.gov.in
+26
+ICAR TECHNOLOGIES: BIOPESTICIDES
+26. ARKA Krishi Rakshak
+ y Microbial c onstituent: Pochonia 
+chlamydosporia (=Verticillium 
+chlamydosporium) IIHR- Vc-3 
+(NAIMCC-SF-0035/ITCC 6898)
+ y Type: Carrier based formulation;  
+2 × 106 cfu/g
+ y Shelf life: 10 months at 25-35°C
+ y Target pests and crops:  
+  Root knot nematode (Meloidogyne 
+incognita)
+  Crops: Brinjal, tomato, carrot and 
+okra
+ y Method of application: Seed 
+treatment at 20 g/kg seed; Nursery bed 
+treatment at 50 g/m
+2 for transplantable 
+crops; Soil application at 5 kg/ha after 
+enrichment in 5 tons FYM before 
+transplanting or sowing
+ y Target agroecological zones/states: 
+All
+ y validation: Karnataka, Odisha 
+and Tamil Nadu for two seasons 
+(2007-2009); AICRP on Nematodes, 
+Vegetables, Floriculture and Fruits
+ y Toxicological data required for 
+CIB&RC registration already generated
+ y commercialization: Commercialized 
+in 2006; Licensed to 50 companies
+ y benefits:
+  61-64% suppression in egg 
+hatching of Meloidogyne incognita
+  62-76% parasitization of nematode eggs 
+  14.6-22.5% increase in yield of brinjal, tomato, carrot and okra
+ARKA Krishi Rakshak
+P . chlamydosporia culture
+Contact:
+Director, ICAR-Indian Institute of Horticultural Research, Bengaluru-560089; 
+e-Mail: director.iihr@icar.gov.in 
+27
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Purpureocillium 
+lilacinum (=Paecilomyces lilacinus) 
+IIHR- Pl-2 (NAIMCC-SF-0034/ITCC 
+6887)
+ y Type: Wettable powder; 2 × 10
+6 cfu/g
+ y Shelf life: 10 months at 25-35°C
+ y Target pests and crops:  
+  Root knot nematode (Meloidogyne 
+incognita)
+  Crops: Brinjal, tomato, carrot and 
+okra
+ y Method of application: Seed treatment 
+at 20 g/kg seed; Nursery bed treatment 
+at 50 g/m
+2 for transplantable crops; Soil 
+application at 5 kg/ha after enrichment 
+in 5 tons FYM before transplanting or 
+sowing
+ y Target agroecological zones/states: All
+ y validation: Karnataka, Odisha 
+and Tamil Nadu for two seasons 
+(2007-2009); AICRP on Nematodes, 
+Vegetables, Floriculture and Fruits
+ y Toxicological data required for CIB&RC 
+registration already generated
+ y commercialization: Commercialized 
+in 2006; Licensed to 86 companies
+ y benefits:
+  51-61% suppression in egg hatching 
+of Meloidogyne incognita
+  60-76% parasitization of nematode eggs 
+  14.3–17.8 % increase in yield of brinjal, tomato, carrot and okra
+27. ARKA Krishi Kawach
+ARKA Krishi Kawach
+P . lilacinum culture
+Contact:
+Director, ICAR-Indian Institute of Horticultural Research, Bengaluru-560089; 
+e-Mail: director.iihr@icar.gov.in 
+28
+ICAR TECHNOLOGIES: BIOPESTICIDES
+28. ARKA Krishi All Rounder and  
+ARKA Plant Growth Booster
+ y Microbial constituent: Pseudomonas fluorescens IIHR Pf-2 (NAIMCC-SB-0038/
+ITCC B0034) and Trichoderma harzianum IIHR Th-2 (NAIMCC-SF-0033/ITCC 
+6888)
+ y Type: Liquid; 2 × 108 cfu/mL; Carrier based; 2 × 108 cfu/g
+ y Shelf life: 10-12 months at 25-35°C
+ y Target pests and crops:  
+  Nematodes: Root knot nematode (Meloidogyne incognita)
+  Bacterial pathogens–Ralstonia solanacearum and Erwinia 
+carotovora
+  Fungal pathogens –Fusarium oxysporum f. sp. vasinfectum 
+and Fusarium solani
+  Crops: Tomato, capsicum, okra, brinjal, cabbage, 
+cauliflower, chillies, carrot, onion, tuberose, gerbera, 
+crossandra, gladioli, carnation, banana, papaya, 
+pomegranate, acid lime, citrus and grapes; crops grown 
+under protected conditions such as carnation, gerbera, 
+capsicum, tomato, okra, muskmelon and watermelon 
+ y Method of application: Seed treatment at 20 g or 20 mL/kg 
+seed; substrate treatment with 10 mL or 10g/kg of cocopeat; 
+soil application at 5 kg or 5 L/ha after enrichment in 5 tons 
+FYM before transplanting or sowing
+ y Target agroecological zones/states: Karnataka
+ y validation: Experimental farms at ICAR-IIHR, Bengaluru, 
+Karnataka for two years
+ y Toxicological data required for CIB&RC registration already generated
+ y commercialization: Commercialized in 2013; Granted patents in India  
+(No. 250779); US (US 7,923,005 B), Australia (AU 2007216174 B2) and Thailand 
+(No.  7621); licensed to one company
+ y benefits:
+  Plant growth promotion and yield enhancement
+  Production of healthy and vigorous seedlings of horticultural crops
+  Management of plant parasitic nematodes and soil borne pathogens
+Contact:
+Director, ICAR-Indian Institute of Horticultural Research, Bengaluru-560089; 
+e-Mail: director.iihr@icar.gov.in 
+ARKA Plant  
+Growth Booster
+ARKA Krishi 
+All Rounder
+29
+ICAR TECHNOLOGIES: BIOPESTICIDES
+29. Manjari Vineguard
+ y Microbial constituent: Trichoderma asperelloides 5R (NAIMCC-SF-0026)
+ y Type: Liquid formulation; 5 × 1011 cfu/mL
+ y Shelf life: 3 months at 25-35°C
+ y Target pests and crops: Powdery mildew of grapes
+ y Method of application: Soil drenching at 2 mL/L of water; Water required for soil 
+drenching: 1000 L/ha
+ y Target agroecological zones/states: Maharashtra, Karnataka, Tamil Nadu, 
+Mizoram, and West Bengal
+ y validation: Experimental farms at ICAR-NRC Grapes, Pune, Maharashtra for 3 
+years; farmers’ fields in Pune for two years
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Available for licensing
+ y benefits:
+  Significant reduction in powdery mildew incidence
+  Significant reduction in number of fungicide application
+Application of Manjari Vineguard for controlling powdery mildew of grapes 
+(var. Thompson Seedless) at Pune, Maharashtra during 2017-18
+Treated Control
+Contact:
+Director, ICAR-National Research Centre for Grapes, Pune- 413702; 
+e-Mail: director.nrcg@icar.gov.in
+30
+ICAR TECHNOLOGIES: BIOPESTICIDES
+ y Microbial constituent: Trichoderma afroharzianum (NAIMCC-F-01938)
+ y Type: Liquid; 5 × 108 cfu/mL
+ y Shelf life: 3 months at 25-35°C
+ y Target pests and crops: Powdery mildew of grapes
+ y Method of application: Foliar spray at 2.0 ml/L of water; Water required for spray: 
+1000 L/ha
+ y Target agroecological zones/states: Maharashtra, Karnataka, Tamil Nadu, 
+Mizoram and West Bengal
+ y validation: Experimental farms at ICAR-NRC Grapes, Pune, Maharashtra for 3 
+years; farmers’ fields in Pune for two years
+ y Toxicological data required for CIB&RC registration yet to be generated
+ y commercialization: Available for licensing
+ y benefits:
+  Significant reduction in powdery mildew incidence
+  Significant reduction in number of fungicide application
+30. Manjari Rakshak
+Application of Manjari Rakshak for controlling powdery mildew of grapes (var. Thompson Seedless) 
+at Pune, Maharashtra during 2017-18
+Treated Control
+Contact:
+Director, ICAR-National Research Centre for Grapes, Pune- 413702; 
+e-Mail: director.nrcg@icar.gov.in
+31
+ICAR TECHNOLOGIES: BIOPESTICIDES
+31. Pusa 5SD
+ y Microbial c onstituent: Trichoderma harzianum IARI P-4 
+(MTCC 5371)
+ y Type: Wettable powder; 108 cfu/g
+ y Shelf life: 25 months at 25+8°C 
+ y Target pests and crops: Fusarium oxysporum f. sp.  ciceris, 
+Sclerotium rolfsii and Sclerotinia sclerotiorum in chickpea; 
+Rhizoctonia solani  and R. bataticola  in chickpea and mungbean; Fusarium 
+oxysporum f. sp. lycopersici in tomato; Pythium ultimum  and R. solani  in french 
+bean; and major soil and seed borne fungal pathogens in various crops 
+ y Method of application: Seed treatment at 4g/kg of seed 
+ y Target agroecological zones/states: All 
+ y validation: AICRP on chickpea at 8 locations for three years; ICAR-IARI, New 
+Delhi; JNKVV , Jabalpur, Madhya Pradesh; RAK College of Agriculture, Sehore, 
+Madhya Pradesh; ARS, Durgapura, Jaipur, Rajasthan; ARS, Badnapur, Maharastra; 
+GAU, Junagadh, Gujarat; College of Agriculture, Indore, Madhya Pradesh and 
+PRSS, SKUAST, Samba, Jammu & Kashmir 
+ y Toxicological data required for CIB&RC registration yet to be generated 
+ y commercialization: Patent granted in 2018 (Patent No. 292555); Available for 
+licencing
+ y benefits:
+  Effective against a wide range of soil and seed borne diseases
+  Enhanced growth of the plants
+  Increased seed germination
+  Increased grain yield under field conditions
+Pusa 5SD evaluated against chickpea wilt
+Control
+Treated
+Contact:
+Director, ICAR-Indian Agricultural Research Institute, New Delhi 110012;  
+e-Mail: director@iari.res.in
+Notes
